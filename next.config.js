@@ -12,7 +12,7 @@ module.exports = withNextra({
     remotePatterns: [
       {
       
-        hostname: 'img.shields.io',
+        hostname: 'vercel.app',
       },
     ],
   },
